@@ -55,6 +55,8 @@ github.com/storage-lock/go-postgresql-storage v0.0.3 h1:6Uu5HuL6YNuU8LTORNWXNJIa
 github.com/storage-lock/go-postgresql-storage v0.0.3/go.mod h1:Pz3ARCdZYVft+bQOXXp+AmR8w4eCDpvMQLjiRZnUyW8=
 github.com/storage-lock/go-sql-based-storage v0.0.2 h1:2Wd9QUlg0RE7UcsM8906Q7ugUZdWGUpIdgtoOqp/Fwo=
 github.com/storage-lock/go-sql-based-storage v0.0.2/go.mod h1:agqyZRJnddBQnKsYDRaWt6TIrGo7Obkodlpe0QP2WiU=
+github.com/storage-lock/go-sqldb-storage v0.0.2 h1:AZZjTgVyzNjLye39Yn01qGDt36HiZexrEBN1jkfYHec=
+github.com/storage-lock/go-sqldb-storage v0.0.2/go.mod h1:Lt5aQnX+g7lr4KjoY3JM68P7nN6OmLAJwUvdH9N1dOY=
 github.com/storage-lock/go-sqlite3-storage v0.0.2 h1:JY3DMQIy/sGv+QzT7bEBgb66gD3rbJe/sNXQL55XpXE=
 github.com/storage-lock/go-sqlite3-storage v0.0.2/go.mod h1:UE/DsVSllph+K1OoLbTRbaBkCkLHslrKcQ2gIYNyMtI=
 github.com/storage-lock/go-sqlserver-storage v0.0.2 h1:MxkPaEREnp0YaaCLfKijQDDs8PK0OKMbONiw1Z4CG8E=
